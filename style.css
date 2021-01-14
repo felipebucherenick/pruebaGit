@@ -59,3 +59,24 @@ ul {
 .nav a:hover {
   color: wheat;
 }
+
+/* MAIN  -------------------------------------------------------------------------------------*/
+.main {
+  width: 100%;
+  min-width: 290px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.section-top {
+  width: 100%;
+  text-align: center;
+  background-color: tomato;
+  border-radius: 1rem;
+}
+
+.main-title {
+  font-size: 4.2rem;
+  margin-bottom: 5rem;
+  color: springgreen;
+}
