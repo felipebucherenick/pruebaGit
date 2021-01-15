@@ -1,5 +1,9 @@
 /* INICIALIZATION  ----------------------------------------------------------------------------------------*/
 
+:root {
+  --tomato-color: #ff6347;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -90,7 +94,7 @@ ul {
 .section-top {
   width: 100%;
   text-align: center;
-  background-color: tomato;
+  background-color: var(--tomato-color);
   border-radius: 1rem;
 }
 
