@@ -104,3 +104,47 @@ ul {
   margin-bottom: 5rem;
   color: springgreen;
 }
+
+/* Section Center */
+.section-center {
+  width: 100%;
+  text-align: center;
+  padding: 3rem 0;
+  font-size: 1.8rem;
+  background-color: cornflowerblue;
+  border-radius: 1rem;
+}
+
+.first-article {
+  width: 80%;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: deeppink;
+  border-radius: 2rem;
+}
+
+.first-article__title {
+  font-size: 3.2rem;
+  color: whitesmoke;
+}
+
+.first-article p {
+  color: green;
+}
+
+.second-article {
+  width: 80%;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: green;
+  border-radius: 2rem;
+}
+
+.second-article__title {
+  font-size: 3.2rem;
+  color: black;
+}
+
+.second-article p {
+  color: pink;
+}
