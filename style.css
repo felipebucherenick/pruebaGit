@@ -224,3 +224,20 @@ ul {
 .fifth-article p {
   color: green;
 }
+
+/* FOOTER -------------------------------------------------------------------------*/
+
+.main-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 16rem;
+  padding: 1rem;
+  background-color: var(--light-blue);
+}
+
+.main-footer p {
+  text-align: center;
+}
